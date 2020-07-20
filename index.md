@@ -1,3 +1,6 @@
+# Github Profile
+[https://github.com/benjamin-croker](https://github.com/benjamin-croker)
+
 # Simpyl
 Track and log computational simulations and machine learning runs with a handful of Python decorators - via a web or code interface.
 
